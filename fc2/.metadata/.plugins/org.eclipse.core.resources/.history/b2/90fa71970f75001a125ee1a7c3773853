@@ -1,0 +1,84 @@
+package stack;
+
+import java.util.ArrayList;
+
+public class MyStackArrayList<E> {
+	private E []a;
+	private int top, size;
+	public MyStackArrayList() {
+		top = -1;
+		size = 0;
+		a = (E[]) new Object[10];
+	}
+	public boolean empty() {
+		return(top == -1);
+	}
+	public E push(E e) {
+		if(top == a.length -1) {
+			System.out.println("Stack is empty.");
+			return null;
+		}
+		else {
+			top++;
+			a[top] = e;
+			size ++;
+			return e;
+		}
+	}
+	public E peek() {
+		if(top == -1) {
+			System.out.println("Stack is emmpty.");
+			return null;
+		}
+		else 
+			return a[top];
+		
+	}
+	public E pop() {
+		if(top == -1) {
+			System.out.println("Stack is emmpty.");
+			return null;
+		}
+		else {
+			E temp = a[top];
+			a[top] = null;
+			top--;
+			size--;
+			return temp;
+		}
+	}
+	public int search(E e) {
+		for(int i = top; i >= 0 ; i--)
+			if(a[i].equals(e))
+				return size - i;
+		return -1;
+	}
+	@Override
+	public String toString() {
+		String s = "[";
+		for(int i = top; i >= 1; i--)
+			s += a[i] + "; ";
+		s = s + a[0] + "]";
+		return s;
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MyStackArrayList<Integer> arr = new MyStackArrayList<Integer>();
+		arr.push(9);
+		arr.push(1);
+		arr.push(2);
+		arr.push(5);
+		arr.push(10);
+		arr.push(4);
+		System.out.println(arr);
+		System.out.println("Peek: " + arr.peek());
+		System.out.println(arr);
+		System.out.println("Pop: " + arr.pop());
+		System.out.println(arr);
+		System.out.println("Search:  " + arr.search(5));
+		System.out.println(arr.empty());
+		ArrayList<Double> arr2 = new ArrayList<Double>();
+		
+	}
+
+}

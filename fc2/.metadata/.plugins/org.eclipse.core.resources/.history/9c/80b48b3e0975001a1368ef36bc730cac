@@ -1,0 +1,74 @@
+package queueArrays;
+
+public class QueueArray<E> {
+	private int head, tail, size;
+	private E a[];
+	public QueueArray() {
+		head = tail = size = 0;
+		a = (E[]) new Object[10];
+	}
+	public boolean empty() {
+		return(size==0);
+	}
+	public E add(E e) {
+		if(size == a.length) {
+			System.out.println("Queue is full.");
+			return null;
+		}
+		else {
+			a[tail] = e;
+			tail = (tail+1)%a.length;
+			size++;
+			return e;
+		}
+	}
+	public E remove() {
+		if(size == 0) {
+			System.out.println("Queue is empty.");
+			return null;
+		}
+		else {
+			E temp = a[head];
+			a[head] = null;
+			head =(head + 1)%a.length;
+			size--;
+			return temp;
+		}
+	}
+	public E element() {
+		return a[head];
+	}
+	@Override
+	public String toString() {
+		String s = "";
+		int i = head;
+		for(int c = 0 ; c <= size ; c++) {
+			s += a[i] + " ";
+			i = (i + 1)%a.length;
+		}
+		return s;
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		QueueArray<Integer> q = new QueueArray<Integer>();
+		q.add(4);
+		q.add(1);
+		q.add(5);
+		q.add(7);
+		q.add(2);
+		q.add(3);
+		q.add(9);
+		q.add(8);
+		q.add(0);
+		q.add(10);
+		System.out.println(q);
+		q.remove();
+		q.remove();
+		q.remove();
+		q.remove();
+		q.remove();
+		q.add(11);
+		System.out.println(q);
+	}
+phuoc
+}

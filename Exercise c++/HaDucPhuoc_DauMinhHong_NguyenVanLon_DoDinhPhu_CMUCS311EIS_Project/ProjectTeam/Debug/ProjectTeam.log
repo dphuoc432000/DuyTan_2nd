@@ -1,0 +1,37 @@
+﻿  Address.cpp
+  ArrayOfBill.cpp
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(113,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(143,23): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(159,23): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(177,23): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(213,22): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(229,22): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(245,22): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(295,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(297,25): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(299,101): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(309,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(311,25): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(313,101): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(348,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(349,23): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(360,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(361,23): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(400,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(401,21): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(424,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(425,21): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(502,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(511,10): warning C4129: 'T': unrecognized character escape sequence
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(515,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(553,20): warning C4018: '<': signed/unsigned mismatch
+D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\ProjectTeam\ArrayOfBill.cpp(559,20): warning C4018: '<': signed/unsigned mismatch
+  Bill.cpp
+  Customers.cpp
+  Date.cpp
+  ElectricBill.cpp
+  ProjectTeam.cpp
+  WaterBill.cpp
+  Generating Code...
+  ProjectTeam.vcxproj -> D:\daiHoc\Nam II\Exercise c++\HaDucPhuoc_DauMinhHong_NguyenVanLon_DoDinhPhu_CMUCS311EIS_Project\Debug\ProjectTeam.exe
